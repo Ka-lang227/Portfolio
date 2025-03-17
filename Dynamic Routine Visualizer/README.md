@@ -1,8 +1,9 @@
 # Dynamic Routine Visualizer
 
-The **Dynamic Routine Visualizer** is a customizable and interactive web application that allows users to visually create, edit, reorder, and manage routines. It is a drag-and-drop-based tool where users can build routines by dragging predefined steps into a grid, editing them on the fly, and exporting or importing their routine data as JSON files.
+The **Dynamic Routine Visualizer** is a customizable and interactive web application within the **portfolio** repository. It lets users create, edit, reorder, and manage routines visually. This drag-and-drop-based tool helps users build routines by dragging predefined steps into a grid, editing them on the fly, and exporting or importing their routine data as JSON files.
 
 ---
+
 ## ✨ Features
 
 - 🟢 **Drag-and-Drop Builder** – Easily drag routine steps (e.g., Warmup, Main, Cooldown) into the visual grid.
@@ -17,13 +18,14 @@ The **Dynamic Routine Visualizer** is a customizable and interactive web applica
 - 🟢 **Color-Coding** – Each type of routine step is automatically color-coded for easy distinction.
 - 🟢 **Duration Tags (Optional)** – Add time durations to each routine step (enhancement-ready).
 
+---
 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/dynamic-routine-visualizer.git
-cd dynamic-routine-visualizer
+git clone https://github.com/your-username/portfolio.git
+cd portfolio/dynamic-routine-visualizer
 ```
 
 ### 2️⃣ Open `index.html`
@@ -33,11 +35,12 @@ You can open the `index.html` file directly in your browser.
 
 ## 🗂️ Project Structure
 ```
-/dynamic-routine-visualizer
-├── index.html
-├── styles.css
-├── script.js
-└── README.md
+/Portfolio
+└── /dynamic-routine-visualizer
+    ├── index.html
+    ├── styles.css
+    ├── script.js
+    └── README.md
 ```
 
 ---
@@ -55,6 +58,7 @@ You can open the `index.html` file directly in your browser.
 3. **Drag inside grid** to reorder items vertically.
 4. **Reset** your routine with a single click.
 
+---
 
 ## 🧑‍💻 Author
-Dynamic Routine Visualizer by Kwatpan Dalang .
+Dynamic Routine Visualizer by Kwatpan Dalang.
